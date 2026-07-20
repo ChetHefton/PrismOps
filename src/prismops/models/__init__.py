@@ -1,0 +1,55 @@
+"""Pydantic domain models."""
+
+from prismops.models.company import Company, Facility, KPI
+from prismops.models.ai_audit import (
+    AuditChatAnswer,
+    AuditChatContext,
+    AutomationRecommendation,
+    CategoryEvidence,
+    ChatTurn,
+    ClarificationQuestion,
+    ClarificationQuestionBatch,
+    ExecutiveAuditReport,
+    GroundedAuditResult,
+    ProcessAnalysis,
+    RecommendationBatch,
+    StakeholderClarification,
+    SupportEvidencePackage,
+)
+from prismops.models.support import (
+    AutomationOpportunity,
+    CategoryMetrics,
+    DemoCompany,
+    DimensionCount,
+    SupportSummary,
+    SupportAudit,
+    SupportTicket,
+    TicketCategory,
+)
+
+__all__ = [
+    "AutomationOpportunity",
+    "AuditChatAnswer",
+    "AuditChatContext",
+    "AutomationRecommendation",
+    "CategoryEvidence",
+    "ChatTurn",
+    "ClarificationQuestion",
+    "ClarificationQuestionBatch",
+    "CategoryMetrics",
+    "Company",
+    "DemoCompany",
+    "DimensionCount",
+    "Facility",
+    "ExecutiveAuditReport",
+    "GroundedAuditResult",
+    "KPI",
+    "ProcessAnalysis",
+    "RecommendationBatch",
+    "StakeholderClarification",
+    "SupportSummary",
+    "SupportAudit",
+    "SupportTicket",
+    "SupportEvidencePackage",
+    "TicketCategory",
+]

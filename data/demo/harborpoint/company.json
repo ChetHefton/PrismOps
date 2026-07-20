@@ -1,0 +1,14 @@
+{
+  "id": "harborpoint-health-services",
+  "name": "HarborPoint Health Services",
+  "industry": "Healthcare services administration",
+  "description": "A fictional healthcare-services support center focused on administrative and access-related requests.",
+  "headquarters": "Columbus, Ohio",
+  "support_team_size": 34,
+  "support_hours": "Monday-Friday, 07:00-20:00 Eastern",
+  "reporting_period_start": "2025-01-01",
+  "reporting_period_end": "2025-06-30",
+  "ticket_count": 3000,
+  "demo_status": "Preloaded fictional demo",
+  "disclaimer": "HarborPoint Health Services is entirely fictional. The dataset contains no patient identities, diagnoses, clinical records, or protected health information."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lumacart-commerce",
+  "name": "LumaCart Commerce",
+  "industry": "Ecommerce retail",
+  "description": "A fictional ecommerce customer-support operation handling orders, returns, refunds, subscriptions, and account issues.",
+  "headquarters": "Austin, Texas",
+  "support_team_size": 42,
+  "support_hours": "Daily, 06:00-23:00 Central",
+  "reporting_period_start": "2025-01-01",
+  "reporting_period_end": "2025-06-30",
+  "ticket_count": 3000,
+  "demo_status": "Preloaded fictional demo",
+  "disclaimer": "LumaCart Commerce and every ticket in this dataset are entirely fictional and contain no customer identities or payment credentials."
+}

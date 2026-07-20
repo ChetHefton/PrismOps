@@ -1,0 +1,14 @@
+{
+  "id": "northstar-industrial-supply",
+  "name": "Northstar Industrial Supply",
+  "industry": "Industrial supply distribution",
+  "description": "A fictional industrial parts distributor used for the PrismOps customer-support operations demo.",
+  "headquarters": "Minneapolis, Minnesota",
+  "support_team_size": 28,
+  "support_hours": "Monday-Friday, 07:00-19:00 Central",
+  "reporting_period_start": "2025-01-01",
+  "reporting_period_end": "2025-06-30",
+  "ticket_count": 3000,
+  "demo_status": "Preloaded fictional demo",
+  "disclaimer": "Northstar Industrial Supply and all associated ticket data are entirely fictional."
+}
