@@ -86,7 +86,7 @@ def render_category_analysis(audit: SupportAudit) -> None:
         hide_index=True,
         width="stretch",
         column_config={
-            "Ticket count": st.column_config.NumberColumn(format=",d"),
+            "Ticket count": st.column_config.NumberColumn(format="%,d"),
             "Category percentage": st.column_config.NumberColumn(format="%.1f%%"),
             "Average resolution minutes": st.column_config.NumberColumn(format="%.1f"),
             "Total handling hours": st.column_config.NumberColumn(format="%.1f"),
